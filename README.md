@@ -52,3 +52,7 @@ The script works only while running. The media and editing buttons are programme
 The [Pluto12 PCB](https://github.com/psuieee/pluto12) was designed by the Penn State IEEE Projects Committee. The [workshop instructions and example encoder keymap](https://github.com/psuieee/projects/tree/main/spring2024/macropad) are from Penn State IEEE; the example keymap carries Will McGLoughlin's 2021–22 copyright and a GPL-2.0-or-later notice. This repository documents the assembled pad and its personal key assignments and Windows launch integration.
 
 The QMK keymap is licensed under GPL-2.0-or-later; see the header in `firmware/keymap.c`.
+
+## License
+
+Code is released under the [MIT License](LICENSE). Data from outside sources keeps its original terms.
